@@ -17,7 +17,7 @@ export const AppProvider = ({ children }) => {
 
     const fetchBlogs = async () => {
         try {
-            const {data} = await axios.get('/api/blog/all');
+            const { data } = await axios.get('/api/blog/all');
             data.success ? setBlogs(data.blogs) : toast.error(data.message);
         } catch (error) {
             toast.error(error.message);
@@ -31,9 +31,7 @@ export const AppProvider = ({ children }) => {
             setToken(token);
             axios.defaults.headers.common['Authorization'] = `${token}`;
         }
-    }, []);
-
-    const value = {
+    }, []); const value = {
         token,
         setToken,
         blogs,
@@ -41,12 +39,13 @@ export const AppProvider = ({ children }) => {
         input,
         setInput,
         navigate,
-        axios
+        axios,
+        fetchBlogs
     };
 
     return (
         <AppContext.Provider value={value}>
-        {children}
+            {children}
         </AppContext.Provider>
     );
 }
