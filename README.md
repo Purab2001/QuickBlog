@@ -236,10 +236,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - 💼 LinkedIn: [linkedin.com/in/abir-shahadat-purab-672bab343](https://www.linkedin.com/in/a-s-purab)
 - 🌐 Live Demo: [https://quick-blog-zeta-two.vercel.app/](https://quick-blog-zeta-two.vercel.app/)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - 🎨 Design inspiration from modern blogging platforms
