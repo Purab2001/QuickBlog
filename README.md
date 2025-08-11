@@ -7,6 +7,14 @@
 
 > 🚀 A modern, AI-powered blogging platform built with React, Node.js, and Express. Create, manage, and share your stories with an intuitive admin panel and seamless user experience.
 
+## 📸 Screenshots
+
+Homepage  
+![Homepage](client/public/screenshot-homepage.png)
+
+Blog Details  
+![Blog Details](client/public/screenshot-blog-details.png)
+
 ## ✨ Features
 
 ### 🎯 Core Features
