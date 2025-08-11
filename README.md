@@ -10,10 +10,10 @@
 ## 📸 Screenshots
 
 Homepage  
-![Homepage](client/public/thumbnail (1).png)
+![Homepage](client/public/screenshot-homepage.png)
 
 Blog Details  
-![Blog Details](client/public/thumbnail (2).png)
+![Blog Details](client/public/screenshot-blog-details.png)
 
 ## ✨ Features
 
