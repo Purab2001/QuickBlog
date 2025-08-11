@@ -9,9 +9,16 @@
 
 ## 📸 Screenshots
 
-| Homepage | Blog Details |
-|----------|--------------|
-| ![Homepage](client/public/screenshot-homepage.png) | ![Blog Details](client/public/screenshot-blog-details.png) |
+<table>
+  <tr>
+    <td align="center"><b>Homepage</b></td>
+    <td align="center"><b>Blog Details</b></td>
+  </tr>
+  <tr>
+    <td><img src="client/public/screenshot-homepage.png" alt="Homepage" height="300"></td>
+    <td><img src="client/public/screenshot-blog-details.png" alt="Blog Details" height="300"></td>
+  </tr>
+</table>
 
 ## ✨ Features
 
