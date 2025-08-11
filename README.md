@@ -9,11 +9,9 @@
 
 ## 📸 Screenshots
 
-Homepage  
-![Homepage](client/public/screenshot-homepage.png)
-
-Blog Details  
-![Blog Details](client/public/screenshot-blog-details.png)
+| Homepage | Blog Details |
+|----------|--------------|
+| ![Homepage](client/public/screenshot-homepage.png) | ![Blog Details](client/public/screenshot-blog-details.png) |
 
 ## ✨ Features
 
